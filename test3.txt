@@ -1,3 +1,4 @@
-Hello there1 wee
+ Hello there1 wee
 dieser text wird erstezt
-dieser text wird nun zu einem neuen, zweig hinzugefügt
+ nun zu einem neuen, zweig hinzugefügt
+eine neue zeile
