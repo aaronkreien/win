@@ -1,4 +1,13 @@
-Hello there1 wee
+ Hello there1 wee
 dieser text wird erstezt
+gt
+dies ist ein neuer z   
+dieser text wird nun zu einem neuen, zweig hinzugef
+
+<<<<<<< HEAD
 dieser text wird nun zu einem neuen, zweig hinzugefügt
 dies ist ein neuer zweig
+=======
+ nun zu einem neuen, zweig hinzugefügt
+eine neue zeile
+>>>>>>> testzweig
